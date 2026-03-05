@@ -5,7 +5,9 @@ Arduino-based adaptive traffic signal control system with demand detection, dyna
 
 Watch the system operating below:
 
+https://www.youtube.com/watch?v=E17nKa1vsaA
+
 https://www.youtube.com/shorts/mBRUcK92UV8
 
-https://www.youtube.com/watch?v=E17nKa1vsaA
+
 
